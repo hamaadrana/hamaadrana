@@ -25,42 +25,42 @@
 
 ## Projects:
 
-● Telbee (www.telbee.io)
-  Tools & Stack: Ruby, Rails, ReactJS, Graphql, Postgres. 
+● ### Telbee (www.telbee.io)
+  * Tools & Stack: Ruby, Rails, ReactJS, Graphql, Postgres. 
 
-● eTyme  (app.etyme.com)
-  Tools & Stack: Ruby, Rails, Postgres, AWS. 
-  eTyme handles all workflow marketing, sales, hiring, managing and paying temp/contract staff. Your work will flow more quickly and smoothly. 
-  Handled back-end development in Rails on the following features: 
-  User Module.
-  Accounting Module
-  Sales
-  Purchase 
+● ### eTyme  (app.etyme.com)
+  * Tools & Stack: Ruby, Rails, Postgres, AWS. 
+  * eTyme handles all workflow marketing, sales, hiring, managing and paying temp/contract staff. Your work will flow more quickly and smoothly. 
+  * Handled back-end development in Rails on the following features: 
+    - User Module.
+    - Accounting Module
+    - Sales
+    - Purchase 
 
-● Real Estate Game 
-  Tools & Stack: Ruby, Rails, Bootstrap, JQuery, MySQL, AWS 
-  Real Estate Solution for Clients and Agents in Canada.
+● ### Real Estate Game 
+  * Tools & Stack: Ruby, Rails, Bootstrap, JQuery, MySQL, AWS 
+  * Real Estate Solution for Clients and Agents in Canada.
 
-● Gamesmith 
-  Tools & Stack: Ruby, Rails. 
-  Discovery platform for the games industry. Gamesmith covers everyone working in the industry from accounting to animation, PR to product, development to  d     deployment. 
-  Features: 
-  Contributed in writing Microservice API endpoints for Google Talent.
+● ### Gamesmith 
+  * Tools & Stack: Ruby, Rails. 
+  * Discovery platform for the games industry. Gamesmith covers everyone working in the industry from accounting to animation, PR to product, development to  d     deployment. 
+  * Features: 
+    - Contributed in writing Microservice API endpoints for Google Talent.
 
 ● Maiaexchange 
-  Tools & Stack: Ruby, Rails, Bootstrap, Coffee, MySQL 
-  Maia is a private market exchange that provides smart capital to growth companies and freedom to investors. 
+  * Tools & Stack: Ruby, Rails, Bootstrap, Coffee, MySQL 
+  * Maia is a private market exchange that provides smart capital to growth companies and freedom to investors. 
 
 ● Chatspace
-  Tools & Stack: Ruby, Rails, AWS. 
-  Online Chatting app for Android and IOS
-  Features I worked on: 
-  Created Dashboard for admin
+  * Tools & Stack: Ruby, Rails, AWS. 
+  * Online Chatting app for Android and IOS
+  * Features I worked on: 
+    - Created Dashboard for admin
   
 ● Maialearning
-  Tools & Stack: Node, AngularJS, AWS. 
-  Student Career Counseling App
-  Features I worked on: 
-  Added new features such as Survey Module
-  Bugs Fixing
+  * Tools & Stack: Node, AngularJS, AWS. 
+  * Student Career Counseling App
+  * Features I worked on: 
+    - Added new features such as Survey Module
+    - Bugs Fixing
 
