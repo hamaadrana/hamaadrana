@@ -1,4 +1,5 @@
-![WhatsApp_Image_2021-09-19_at_22 40 52-removebg-preview](https://user-images.githubusercontent.com/40526746/133986693-425c7d25-33dc-4167-bee1-4420332ca99d.png)
+
+<img width="114" alt="Screenshot 2021-09-20 at 3 16 03 PM" src="https://user-images.githubusercontent.com/40526746/133986973-8e539499-e357-4aab-ad04-f809faab5745.png">
 
 ## HAMAD RANA
 54000, LAHORE, PAKISTAN · (092) 316-4777337 · HAMADRANA23@GMAIL.COM
