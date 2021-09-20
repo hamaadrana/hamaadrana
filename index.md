@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hamaadrana/hamaadrana/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## HAMAD RANA
+54000, LAHORE, PAKISTAN · (092) 316-4777337 · HAMADRANA23@GMAIL.COM
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 4+ years of development experience building robust and complex applications in the education, marketing, media, and real estate industry.
+- Expertise as a full-stack developer in Ruby on Rails, React, Node, and Angular.
+- Loads of experience in AWS, SQL, PostgreSQL, HTML/CSS, Bootstrap, CI/CD.
+- A believer of 'Communication is Key'.
+- In love with table tennis and coffee
 
-### Markdown
+## EXPERIENCE:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Senior Software Engineer * Engin Technologies
 
-```markdown
-Syntax highlighted code block
+  * Developing systems using the latest technologies.
+  * Developed high-performance web application, design database, user requirements to design, develop the documents, test, and implement data models, database       architecture, integrated payment gateways, and design user-friendly front-end systems.
+  * Writing maintainable and extensible code in a team environment. - Modified existing software to correct errors, upgrade interfaces and improve performance.
+  * Worked closely with other team members to plan, design, and develop robust solutions in a timely manner.
+  * Interfaced with developers and technical support to determine the best requirement specification.
 
-# Header 1
-## Header 2
-### Header 3
+## EDUCATION:
 
-- Bulleted
-- List
+- Bachelors degree in Software Engineering from Comsats University Islamabad, Pakistan.
+- Intermediate/High School degree from Forman Christian College, Lahore, Pakistan.
 
-1. Numbered
-2. List
+## Projects:
 
-**Bold** and _Italic_ and `Code` text
+● Telbee (www.telbee.io)
+  Tools & Stack: Ruby, Rails, ReactJS, Graphql, Postgres. 
 
-[Link](url) and ![Image](src)
-```
+● eTyme  (app.etyme.com)
+  Tools & Stack: Ruby, Rails, Postgres, AWS. 
+  eTyme handles all workflow marketing, sales, hiring, managing and paying temp/contract staff. Your work will flow more quickly and smoothly. 
+  Handled back-end development in Rails on the following features: 
+  User Module.
+  Accounting Module
+  Sales
+  Purchase 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+● Real Estate Game 
+  Tools & Stack: Ruby, Rails, Bootstrap, JQuery, MySQL, AWS 
+  Real Estate Solution for Clients and Agents in Canada.
 
-### Jekyll Themes
+● Gamesmith 
+  Tools & Stack: Ruby, Rails. 
+  Discovery platform for the games industry. Gamesmith covers everyone working in the industry from accounting to animation, PR to product, development to  d     deployment. 
+  Features: 
+  Contributed in writing Microservice API endpoints for Google Talent.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hamaadrana/hamaadrana/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+● Maiaexchange 
+  Tools & Stack: Ruby, Rails, Bootstrap, Coffee, MySQL 
+  Maia is a private market exchange that provides smart capital to growth companies and freedom to investors. 
 
-### Support or Contact
+● Chatspace
+  Tools & Stack: Ruby, Rails, AWS. 
+  Online Chatting app for Android and IOS
+  Features I worked on: 
+  Created Dashboard for admin
+  
+● Maialearning
+  Tools & Stack: Node, AngularJS, AWS. 
+  Student Career Counseling App
+  Features I worked on: 
+  Added new features such as Survey Module
+  Bugs Fixing
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
